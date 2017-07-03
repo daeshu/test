@@ -10,7 +10,7 @@ title:               foo
 #tagline:             'foo's websitehttps://tacna.netlify.com
 description:         Foo's blog...
 url: hhttps://daeshu.github.io/test
-baseurl: "https://daeshu.github.io/test"
+baseurl: "/test"
 urlimg: https://dyndna.github.io/lanyon-plus/images/
 markdown: kramdown
 paginate: 5
