@@ -7,10 +7,10 @@ relative_permalinks: false
 
 # Setup
 title:               foo
-#tagline:             'foo's website
+#tagline:             'foo's websitehttps://tacna.netlify.com
 description:         Foo's blog...
-url: https://dyndna.github.io/lanyon-plus
-baseurl: "/lanyon-plus"
+url: https://tacna.netlify.com
+baseurl: "https://tacna.netlify.com"
 urlimg: https://dyndna.github.io/lanyon-plus/images/
 markdown: kramdown
 paginate: 5
